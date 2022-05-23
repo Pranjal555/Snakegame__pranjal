@@ -8,7 +8,7 @@
     color:yellow;
 }
 .body{
-    background:url("/board.jpg");
+    background:url("https://i.pinimg.com/736x/a4/22/9a/a4229a483cf76e0b5458450c2e591ff3--d-texture-paint-texture.jpg");
     min-height:100vh;
     display: flex;
     justify-content: center;
